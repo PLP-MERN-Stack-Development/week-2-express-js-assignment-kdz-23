@@ -1,0 +1,9 @@
+
+# Ignore the node modules and the .env
+
+node_modules/
+.env
+
+# pnpm-lock file and package.json
+pnpm-lock.yaml
+package.json
